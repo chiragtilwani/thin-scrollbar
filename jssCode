@@ -1,0 +1,13 @@
+"&::-webkit-scrollbar": {
+      width: ".25rem",
+},
+"&::-webkit-scrollbar-track": {
+      backgroundColor: "var(--purple-3)",
+},
+"&::-webkit-scrollbar-thumb": {
+    backgroundColor: "var(--purple-2)",
+    borderRadius: "20rem",
+   "&:hover": {
+        backgroundColor: "var(--purple-1)",
+   },
+},
